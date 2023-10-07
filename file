@@ -1,0 +1,6 @@
+Edit files via Byte-Editing
+
+Add this code:
+using EditaByte;
+
+Edclass.Bytefun(Address, newValue, filePath); // use this in your program, remember that you only need to put strings, i've already included long and byte converter to string
